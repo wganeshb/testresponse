@@ -87,13 +87,6 @@
                     "reading": "70.3"
                 }
             ]
-        },
-        {
-            "doctor": "Dilip Karnik",
-            "reporttype": "Metabolic Panel",
-            "reportdate": "Feb 12, 2022",
-            "time": "2:00 PM",
-            "readings": [{}]
         }
     ],
     "currentPrescriptions":[
@@ -150,5 +143,74 @@
             }
         }
     ]
+    "immunizations": [
+        {
+            "immunization": "Influenza",
+            "clinic": "administered by Austin Regionalal clinic",
+        },
+        {
+            "immunization": "COVID-19",
+            "clinic": "administered by Austin Regionalal clinic",
+        },
+        {
+            "immunization": "COVID-19 Booster",
+            "clinic": "administered by Austin Regionalal clinic",
+        },
+        {
+            "immunization": "Meningitis",
+            "clinic": "administered by Austin Regionalal clinic",
+        }
+    ],
+    "conditions": [
+        "Down Syndrome",
+        "ADHD",
+        "Narcolepsy",
+        "Anxiety"
+    ],
+    "pastappointments": [
+        {
+            "doctor": "Dilip Karnik",
+            "date": "Feb 12, 2022",
+            "time": "2:00 PM",
+            "reason": "ADHD Consultation",
+            "symptions": "Symptom Information Symptom Information Symptom Information",
+            "notes": "NotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotes"
+        },
+        {
+            "doctor": "Dilip Karnik",
+            "date": "Jan 20, 2022",
+            "time": "10:00 AM",
+            "reason": "Consultation",
+            "symptions": "Symptom Information Symptom Information Symptom Information",
+            "notes": "NotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotes"
+        },
+        {
+            "doctor": "Dilip Karnik",
+            "date": "Dec 15, 2021",
+            "time": "10:00 AM",
+            "reason": "Consultation",
+            "symptions": "Symptom Information Symptom Information Symptom Information",
+            "notes": "NotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotes"
+        }
+    ],
+    "allergies": [
+        {
+            "material": "Peanut",
+            "doctor": "Documented by Dr. Karnik"
+        },
+        {
+            "immunization": "Codine",
+            "doctor": "Documented by Dr. Karnik"
+        },
+        {
+            "immunization": "Latex",
+            "doctor": "Documented by Dr. Karnik"
+        },
+        {
+            "immunization": "Pollen",
+            "doctor": "Documented by Dr. Karnik"
+        }
+    ]
+
 
 }
