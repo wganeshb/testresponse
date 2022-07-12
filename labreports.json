@@ -22,13 +22,6 @@
                     "reading": "70.3"
                 }
             ]
-        },
-        {
-            "doctor": "Dilip Karnik",
-            "reporttype": "Metabolic Panel",
-            "reportdate": "Feb 12, 2022",
-            "time": "2:00 PM",
-            "readings": [{}]
         }
     ]
 }
