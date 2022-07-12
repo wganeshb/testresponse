@@ -1,0 +1,56 @@
+{
+    "currentPrescriptions":[
+        {
+            "patientId": "Child One",
+            "name": "Adderall",
+            "dosage": "10mg",
+            "currentDosagePrice": "$23.67",
+            "status": "Refill in 3 days",
+            "pharmacy": "Walgreens Pharmacy Cedar Park",
+            "time": "Thursday 4/23/2022",
+            "newOffer": {
+                "pharmacy": "Walgreen pharmacy",
+                "offerPrice": "$17.74"
+            }
+        },
+        {
+            "patientId": "ChildOne",
+            "name": "Adderall",
+            "dosage": "10mg",
+            "currentDosagePrice": "$23.67",
+            "status": "Refill in 23 days",
+            "pharmacy": "Walgreens Pharmacy Cedar Park",
+            "time": "Thursday 4/23/2022",
+            "newOffer": {
+                "pharmacy": "Walgreen pharmacy",
+                "offerPrice": "$17.74"
+            }
+        },
+        {
+            "patientId": "Child One",
+            "name": "Adderall",
+            "dosage": "10mg",
+            "currentDosagePrice": "$23.67",
+            "status": "Refill in 30 days",
+            "pharmacy": "Walgreens Pharmacy Cedar Park",
+            "time": "Thursday 4/23/2022",
+            "newOffer": {
+                "pharmacy": "Walgreen pharmacy",
+                "offerPrice": "$17.74"
+            }
+        },
+        {
+            "patientId": "Child One",
+            "name": "Adderall",
+            "dosage": "10mg",
+            "currentDosagePrice": "$23.67",
+            "status": "Refill in 6 days",
+            "pharmacy": "Walgreens Pharmacy Cedar Park",
+            "time": "Thursday 4/23/2022",
+            "newOffer": {
+                "pharmacy": "Walgreen pharmacy",
+                "offerPrice": "$17.74"
+            }
+        }
+    ]
+}
