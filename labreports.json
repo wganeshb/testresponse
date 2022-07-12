@@ -1,4 +1,9 @@
 {
+    "imaging": "3",
+    "eegekg": 1,
+    "psychiatricevaluation": "1",
+    "therapistEval": "1",
+    "other": "1",
     "labreports": [
         {
             "doctor": "Dilip Karnik",
