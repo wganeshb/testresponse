@@ -1,0 +1,154 @@
+{
+    "appointment": {
+        "patient": "Child One",
+        "doctor": "Dr. Karnik",
+        "scheduledtime": "Tommorrow @ 5:00pm"
+    },
+    "doctors": [
+        {
+            "Spcialist": "Neurology",
+            "designation": "Dr",
+            "doctorsname": "Dilip Karnik"
+        }, 
+        {
+            "Spcialist": "Title of Doctor's Position",
+            "designation": "Dr",
+            "doctorsname": "First Last"
+        }, 
+        {
+            "Spcialist": "Title of Doctor's Position",
+            "designation": "Dr",
+            "doctorsname": "First Last"
+        }
+    ],
+    "healthreports": {
+        "patientname": "Child One",
+        "appointment": {
+            "patient": "Child One",
+            "doctor": "Dr. Karnik",
+            "scheduledtime": "Tommorrow @ 5:00pm"
+        },
+        "growthTrack": {
+            "weight": {
+                "weight": "128",
+                "change": "2"
+            },
+            "height": {
+                "height": "5.5",
+                "change": "1"
+            }
+        },
+        "messages": "3",
+        "appointments": "1",
+        "labreports": "1",
+        "prescriptions": "",
+        "clinicalvisits": "1",
+        "conditions": "",
+        "immunizations": "1",
+        "allergies": "",
+        "doctors": [
+            {
+                "Spcialist": "Neurology",
+                "designation": "Dr",
+                "doctorsname": "Dilip Karnik"
+            }, 
+            {
+                "Spcialist": "Title of Doctor's Position",
+                "designation": "Dr",
+                "doctorsname": "First Last"
+            }, 
+            {
+                "Spcialist": "Title of Doctor's Position",
+                "designation": "Dr",
+                "doctorsname": "First Last"
+            }
+        ]
+    },
+    "labreports": [
+        {
+            "doctor": "Dilip Karnik",
+            "reporttype": "Metabolic Panel",
+            "reportdate": "Feb 12, 2022",
+            "time": "2:00 PM",
+            "readings": [
+                {
+                    "reportname": "HDL Cholesterol",
+                    "status": "In Range",
+                    "reading": "54.5"
+                },
+                {
+                    "reportname": "HDL Cholesterol",
+                    "status": "In Range",
+                    "reading": "54.5"
+                },
+                {
+                    "reportname": "HDL Cholesterol",
+                    "status": "Out of Range",
+                    "reading": "70.3"
+                }
+            ]
+        },
+        {
+            "doctor": "Dilip Karnik",
+            "reporttype": "Metabolic Panel",
+            "reportdate": "Feb 12, 2022",
+            "time": "2:00 PM",
+            "readings": [{}]
+        }
+    ],
+    "currentPrescriptions":[
+        {
+            "patientId": "Child One",
+            "name": "Adderall",
+            "dosage": "10mg",
+            "currentDosagePrice": "$23.67",
+            "status": "Refill in 3 days",
+            "pharmacy": "Walgreens Pharmacy Cedar Park",
+            "time": "Thursday 4/23/2022",
+            "newOffer": {
+                "pharmacy": "Walgreen pharmacy",
+                "offerPrice": "$17.74"
+            }
+        },
+        {
+            "patientId": "ChildOne",
+            "name": "Adderall",
+            "dosage": "10mg",
+            "currentDosagePrice": "$23.67",
+            "status": "Refill in 23 days",
+            "pharmacy": "Walgreens Pharmacy Cedar Park",
+            "time": "Thursday 4/23/2022",
+            "newOffer": {
+                "pharmacy": "Walgreen pharmacy",
+                "offerPrice": "$17.74"
+            }
+        },
+        {
+            "patientId": "Child One",
+            "name": "Adderall",
+            "dosage": "10mg",
+            "currentDosagePrice": "$23.67",
+            "status": "Refill in 30 days",
+            "pharmacy": "Walgreens Pharmacy Cedar Park",
+            "time": "Thursday 4/23/2022",
+            "newOffer": {
+                "pharmacy": "Walgreen pharmacy",
+                "offerPrice": "$17.74"
+            }
+        },
+        {
+            "patientId": "Child One",
+            "name": "Adderall",
+            "dosage": "10mg",
+            "currentDosagePrice": "$23.67",
+            "status": "Refill in 6 days",
+            "pharmacy": "Walgreens Pharmacy Cedar Park",
+            "time": "Thursday 4/23/2022",
+            "newOffer": {
+                "pharmacy": "Walgreen pharmacy",
+                "offerPrice": "$17.74"
+            }
+        }
+    ]
+
+}
