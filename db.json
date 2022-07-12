@@ -21,7 +21,7 @@
             "doctorsname": "First Last"
         }
     ],
-    "healthreports": {
+    "healthreport": {
         "patientname": "Child One",
         "appointment": {
             "patient": "Child One",
@@ -64,7 +64,7 @@
             }
         ]
     },
-    "labreports": [
+    "labreport": [
         {
             "doctor": "Dilip Karnik",
             "reporttype": "Metabolic Panel",
