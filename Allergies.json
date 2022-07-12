@@ -1,0 +1,20 @@
+{
+    "allergies": [
+        {
+            "material": "Peanut",
+            "doctor": "Documented by Dr. Karnik"
+        },
+        {
+            "immunization": "Codine",
+            "doctor": "Documented by Dr. Karnik"
+        },
+        {
+            "immunization": "Latex",
+            "doctor": "Documented by Dr. Karnik"
+        },
+        {
+            "immunization": "Pollen",
+            "doctor": "Documented by Dr. Karnik"
+        }
+    ]
+}
