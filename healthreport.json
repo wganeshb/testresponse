@@ -1,52 +1,45 @@
 {
     "healthreports": {
-        "childone": {
-            "appointment": {
-                "patient": "Child One",
-                "doctor": "Dr. Karnik",
-                "scheduledtime": "Tommorrow @ 5:00pm"
-            },
-            "growthTrack": {
-                "weight": {
-                    "weight": "128",
-                    "change": "2"
-                },
-                "height": {
-                    "height": "5.5",
-                    "change": "1"
-                }
-            },
-            "messages": "3",
-            "appointments": "1",
-            "labreports": "1",
-            "prescriptions": "",
-            "clinicalvisits": "1",
-            "conditions": "",
-            "immunizations": "1",
-            "allergies": "",
-            "doctors": [
-                {
-                    "Spcialist": "Neurology",
-                    "designation": "Dr",
-                    "doctorsname": "Dilip Karnik"
-                }, 
-                {
-                    "Spcialist": "Title of Doctor's Position",
-                    "designation": "Dr",
-                    "doctorsname": "First Last"
-                }, 
-                {
-                    "Spcialist": "Title of Doctor's Position",
-                    "designation": "Dr",
-                    "doctorsname": "First Last"
-                }
-            ]
+        "patientname": "Child One",
+        "appointment": {
+            "patient": "Child One",
+            "doctor": "Dr. Karnik",
+            "scheduledtime": "Tommorrow @ 5:00pm"
         },
-        "childtwo": {
-
+        "growthTrack": {
+            "weight": {
+                "weight": "128",
+                "change": "2"
+            },
+            "height": {
+                "height": "5.5",
+                "change": "1"
+            }
         },
-        "childthree": {
-
-        }
+        "messages": "3",
+        "appointments": "1",
+        "labreports": "1",
+        "prescriptions": "",
+        "clinicalvisits": "1",
+        "conditions": "",
+        "immunizations": "1",
+        "allergies": "",
+        "doctors": [
+            {
+                "Spcialist": "Neurology",
+                "designation": "Dr",
+                "doctorsname": "Dilip Karnik"
+            }, 
+            {
+                "Spcialist": "Title of Doctor's Position",
+                "designation": "Dr",
+                "doctorsname": "First Last"
+            }, 
+            {
+                "Spcialist": "Title of Doctor's Position",
+                "designation": "Dr",
+                "doctorsname": "First Last"
+            }
+        ]
     }
 }
