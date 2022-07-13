@@ -149,19 +149,19 @@
     "immunizations": [
         {
             "immunization": "Influenza",
-            "clinic": "administered by Austin Regionalal clinic",
+            "clinic": "administered by Austin Regionalal clinic"
         },
         {
             "immunization": "COVID-19",
-            "clinic": "administered by Austin Regionalal clinic",
+            "clinic": "administered by Austin Regionalal clinic"
         },
         {
             "immunization": "COVID-19 Booster",
-            "clinic": "administered by Austin Regionalal clinic",
+            "clinic": "administered by Austin Regionalal clinic"
         },
         {
             "immunization": "Meningitis",
-            "clinic": "administered by Austin Regionalal clinic",
+            "clinic": "administered by Austin Regionalal clinic"
         }
     ],
     "conditions": [
