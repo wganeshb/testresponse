@@ -1,26 +1,29 @@
 {
-    "appointment": {
-        "patient": "Child One",
-        "doctor": "Dr. Karnik",
-        "scheduledtime": "Tommorrow @ 5:00pm"
+    "appointments": {
+        
+        "appointment": {
+            "patient": "Child One",
+            "doctor": "Dr. Karnik",
+            "scheduledtime": "Tommorrow @ 5:00pm"
+        },
+        "doctors": [
+            {
+                "Spcialist": "Neurology",
+                "designation": "Dr",
+                "doctorsname": "Dilip Karnik"
+            }, 
+            {
+                "Spcialist": "Title of Doctor's Position",
+                "designation": "Dr",
+                "doctorsname": "First Last"
+            }, 
+            {
+                "Spcialist": "Title of Doctor's Position",
+                "designation": "Dr",
+                "doctorsname": "First Last"
+            }
+        ]
     },
-    "doctors": [
-        {
-            "Spcialist": "Neurology",
-            "designation": "Dr",
-            "doctorsname": "Dilip Karnik"
-        }, 
-        {
-            "Spcialist": "Title of Doctor's Position",
-            "designation": "Dr",
-            "doctorsname": "First Last"
-        }, 
-        {
-            "Spcialist": "Title of Doctor's Position",
-            "designation": "Dr",
-            "doctorsname": "First Last"
-        }
-    ],
     "healthreport": {
         "patientname": "Child One",
         "appointment": {
