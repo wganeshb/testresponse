@@ -1,9 +1,9 @@
 {
-    "appointment": {
+    "appointment":[ {
         "patient": "Child One",
         "doctor": "Dr. Karnik",
         "scheduledtime": "Tommorrow @ 5:00pm"
-    },
+    }],
     "doctors": [
         {
             "Spcialist": "Neurology",
