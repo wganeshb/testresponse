@@ -9,7 +9,7 @@
         },
         {
             "type": "prescription",
-            "patientId": "Child One",
+            "patientId": "ChildOne",
             "name": "Child One",
             "prescription": "Adderall",
             "todo": "Refill",
@@ -25,8 +25,8 @@
         },
         {
             "type": "prescription",
-            "patientId": "Child Three",
-            "name": "Child One",
+            "patientId": "ChildThree",
+            "name": "Child Three",
             "prescription": "Adderall",
             "todo": "Refill 2 days",
             "pharmacy": "Apollo Pharmacy",
