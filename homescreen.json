@@ -15,6 +15,22 @@
             "todo": "Refill",
             "pharmacy": "Walgreens Pharmacy Cedar Park",
             "time": "Thursday 4/23/2022"
+        },
+        {
+            "type": "appointment",
+            "patientId": "ChildTwo",
+            "name": "Child Two",
+            "consultant": "Dr. Joshi",
+            "time": "Tomorrow @ 10:00am"
+        },
+        {
+            "type": "prescription",
+            "patientId": "Child Three",
+            "name": "Child One",
+            "prescription": "Adderall",
+            "todo": "Refill 2 days",
+            "pharmacy": "Apollo Pharmacy",
+            "time": "Thursday 4/23/2022"
         }
     ],
     "patients": [
