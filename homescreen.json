@@ -29,7 +29,7 @@
             
         },
         {,
-            "type": "prescription",child1.jpg
+            "type": "prescription",
             "patientId": "ChildThree",
             "name": "Ashley Brown",
             "prescription": "Adderall",
