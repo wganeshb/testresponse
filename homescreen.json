@@ -22,7 +22,7 @@
         {
             "type": "appointment",
             "patientId": "ChildTwo",
-            "name": "Michael Smith",
+            "name": "Michael Williams",
             "consultant": "Dr. Joshi",
             "time": "Tomorrow @ 10:00am",
             "image": "child2.jpg"
@@ -31,7 +31,7 @@
         {,
             "type": "prescription",
             "patientId": "ChildThree",
-            "name": "Ashley Brown",
+            "name": "Ashley Williams",
             "prescription": "Adderall",
             "todo": "Refill 2 days",
             "pharmacy": "Apollo Pharmacy",
@@ -46,12 +46,12 @@
             "image": "child1.jpg"
         },
         {
-            "name": "Michael Smith",
+            "name": "Michael Williams",
             "patientId": "ChildTwo",
             "image": "child2.jpg"
         },
         {
-            "name": "Ashley Brown",
+            "name": "Ashley Williams",
             "patientId": "ChildThree",
             "image": "child1.jpg"
         }
