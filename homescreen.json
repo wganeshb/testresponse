@@ -33,7 +33,7 @@
             "patientId": "ChildThree",
             "name": "Ashley Williams",
             "prescription": "Adderall",
-            "todo": "Refill 2 days",
+            "todo": "2 days",
             "pharmacy": "Apollo Pharmacy",
             "time": "Thursday 4/23/2022",
             "image": "child3.jpg"
