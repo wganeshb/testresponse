@@ -28,7 +28,7 @@
             "image": "child2.jpg"
             
         },
-        {,
+        {
             "type": "prescription",
             "patientId": "ChildThree",
             "name": "Ashley Williams",
