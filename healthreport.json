@@ -4,7 +4,8 @@
         "appointment": {
             "patient": "ChildOne",
             "doctor": "Dr. Karnik",
-            "scheduledtime": "Tommorrow @ 5:00pm"
+            "scheduledtime": "Tommorrow @ 5:00pm",
+            "image": "child1.jpg"
         },
         "growthTrack": {
             "weight": {
