@@ -6,7 +6,7 @@
             "name": "James Williams",
             "consultant": "Dr. Karnik",
             "time": "Tomorrow @ 5:00pm",
-            "image": "child1.jpg"
+            "image": "child1"
         },
         {
             "type": "prescription",
@@ -16,7 +16,7 @@
             "todo": "Refill",
             "pharmacy": "Walgreens Pharmacy Cedar Park",
             "time": "Thursday 4/23/2022",
-            "image": "child1.jpg"
+            "image": "child1"
             
         },
         {
@@ -36,24 +36,24 @@
             "todo": "2 days",
             "pharmacy": "Apollo Pharmacy",
             "time": "Thursday 4/23/2022",
-            "image": "child3.jpg"
+            "image": "child3"
         }
     ],
     "patients": [
         {
             "name": "James Williams",
             "patientId": "ChildOne",
-            "image": "child1.jpg"
+            "image": "child1"
         },
         {
             "name": "Michael Williams",
             "patientId": "ChildTwo",
-            "image": "child2.jpg"
+            "image": "child2"
         },
         {
             "name": "Ashley Williams",
             "patientId": "ChildThree",
-            "image": "child3.jpg"
+            "image": "child3"
         }
     ]
 }
