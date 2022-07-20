@@ -1,5 +1,6 @@
 {
     "patientname": "James Williams",
+    "image": "child1.jpg",
     "currentPrescriptions":[
         {
             "name": "Adderall",
