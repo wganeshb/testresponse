@@ -3,48 +3,57 @@
         {
             "type": "appointment",
             "patientId": "ChildOne",
-            "name": "Child One",
+            "name": "James Williams",
             "consultant": "Dr. Karnik",
-            "time": "Tomorrow @ 5:00pm"
+            "time": "Tomorrow @ 5:00pm",
+            "image": "child1.jpg"
         },
         {
             "type": "prescription",
             "patientId": "ChildOne",
-            "name": "Child One",
+            "name": "James Williams",
             "prescription": "Adderall",
             "todo": "Refill",
             "pharmacy": "Walgreens Pharmacy Cedar Park",
-            "time": "Thursday 4/23/2022"
+            "time": "Thursday 4/23/2022",
+            "image": "child1.jpg"
+            
         },
         {
             "type": "appointment",
             "patientId": "ChildTwo",
-            "name": "Child Two",
+            "name": "Michael Smith",
             "consultant": "Dr. Joshi",
-            "time": "Tomorrow @ 10:00am"
+            "time": "Tomorrow @ 10:00am",
+            "image": "child2.jpg"
+            
         },
-        {
-            "type": "prescription",
+        {,
+            "type": "prescription",child1.jpg
             "patientId": "ChildThree",
-            "name": "Child Three",
+            "name": "Ashley Brown",
             "prescription": "Adderall",
             "todo": "Refill 2 days",
             "pharmacy": "Apollo Pharmacy",
-            "time": "Thursday 4/23/2022"
+            "time": "Thursday 4/23/2022",
+            "image": "child3.jpg"
         }
     ],
     "patients": [
         {
-            "name": "Child One",
-            "patientId": "ChildOne"
+            "name": "James Williams",
+            "patientId": "ChildOne",
+            "image": "child1.jpg"
         },
         {
-            "name": "Child Two",
-            "patientId": "ChildTwo"
+            "name": "Michael Smith",
+            "patientId": "ChildTwo",
+            "image": "child2.jpg"
         },
         {
-            "name": "Child Three",
-            "patientId": "ChildThree"
+            "name": "Ashley Brown",
+            "patientId": "ChildThree",
+            "image": "child1.jpg"
         }
     ]
 }
