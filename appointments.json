@@ -1,21 +1,9 @@
 {
     "appointment":[ {
-        "patient": "Child One",
+        "patient": "James Williams",
         "doctor": "Dr. Karnik",
-        "scheduledtime": "Tommorrow @ 5:00pm"
-    },
-     {
-        "patient": "Child One",
-        "doctor": "Dr. Karnik",
-        "scheduledtime": "Tommorrow @ 5:00pm"
-    },{
-        "patient": "Child One",
-        "doctor": "Dr. Karnik",
-        "scheduledtime": "Tommorrow @ 5:00pm"
-    },{
-        "patient": "Child One",
-        "doctor": "Dr. Karnik",
-        "scheduledtime": "Tommorrow @ 5:00pm"
+        "scheduledtime": "Tommorrow @ 5:00pm",
+        "image": "child1.jpg"
     }
     ],
     "doctors": [
@@ -27,12 +15,12 @@
         {
             "Spcialist": "Title of Doctor's Position",
             "designation": "Dr",
-            "doctorsname": "First Last"
+            "doctorsname": "Mohan Joshi"
         }, 
         {
             "Spcialist": "Title of Doctor's Position",
             "designation": "Dr",
-            "doctorsname": "First Last"
+            "doctorsname": "Kartik M"
         }
     ]
 }
