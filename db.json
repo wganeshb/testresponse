@@ -2,7 +2,7 @@
     "appointments": {
         
         "appointment": {
-            "patient": "Child One",
+            "patient": "James Williams",
             "doctor": "Dr. Karnik",
             "scheduledtime": "Tommorrow @ 5:00pm"
         },
@@ -15,19 +15,19 @@
             {
                 "Spcialist": "Title of Doctor's Position",
                 "designation": "Dr",
-                "doctorsname": "First Last"
+                "doctorsname": "Mohan Joshi"
             }, 
             {
                 "Spcialist": "Title of Doctor's Position",
                 "designation": "Dr",
-                "doctorsname": "First Last"
+                "doctorsname": "Kartik M"
             }
         ]
     },
     "healthreport": {
-        "patientname": "Child One",
+        "patientname": "James Williams",
         "appointment": {
-            "patient": "Child One",
+            "patient": "James Williams",
             "doctor": "Dr. Karnik",
             "scheduledtime": "Tommorrow @ 5:00pm"
         },
@@ -58,12 +58,12 @@
             {
                 "Spcialist": "Title of Doctor's Position",
                 "designation": "Dr",
-                "doctorsname": "First Last"
+                "doctorsname": "Mohan Joshi"
             }, 
             {
                 "Spcialist": "Title of Doctor's Position",
                 "designation": "Dr",
-                "doctorsname": "First Last"
+                "doctorsname": "Kartik M"
             }
         ]
     },
@@ -94,7 +94,8 @@
     ],
     "currentPrescriptions":[
         {
-            "patientId": "Child One",
+            "patientId": "ChildOne",
+            "patientName": "James Williams",
             "name": "Adderall",
             "dosage": "10mg",
             "currentDosagePrice": "$23.67",
@@ -108,6 +109,7 @@
         },
         {
             "patientId": "ChildOne",
+            "patientName": "James Williams",
             "name": "Adderall",
             "dosage": "10mg",
             "currentDosagePrice": "$23.67",
@@ -120,7 +122,8 @@
             }
         },
         {
-            "patientId": "Child One",
+            "patientId": "ChildOne",
+            "patientName": "James Williams",
             "name": "Adderall",
             "dosage": "10mg",
             "currentDosagePrice": "$23.67",
@@ -133,7 +136,8 @@
             }
         },
         {
-            "patientId": "Child One",
+            "patientId": "ChildOne",
+            "patientName": "James Williams",
             "name": "Adderall",
             "dosage": "10mg",
             "currentDosagePrice": "$23.67",
