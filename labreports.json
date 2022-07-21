@@ -4,6 +4,7 @@
     "psychiatricevaluation": "1",
     "therapistEval": "1",
     "other": "1",
+    "patientname": "James Williams",
     "labreports": [
         {
             "doctor": "Dilip Karnik",
