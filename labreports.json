@@ -21,6 +21,11 @@
                     "reportname": "HDL Cholesterol",
                     "status": "In Range",
                     "reading": "54.5"
+                },
+                {
+                    "reportname": "HDL Cholesterol",
+                    "status": "In Range",
+                    "reading": "54.5"
                 }
             ]
         }
