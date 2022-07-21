@@ -1,7 +1,7 @@
 {
     "upcomingevents" : [
         {
-            "type": "appointment",
+            "type": "Appointment",
             "patientId": "ChildOne",
             "name": "James Williams",
             "consultant": "Dr. Karnik",
@@ -9,7 +9,7 @@
             "image": "../assets/child1.jpg"
         },
         {
-            "type": "prescription",
+            "type": "Prescription",
             "patientId": "ChildOne",
             "name": "James Williams",
             "prescription": "Adderall",
@@ -20,7 +20,7 @@
             
         },
         {
-            "type": "appointment",
+            "type": "Appointment",
             "patientId": "ChildTwo",
             "name": "Michael Williams",
             "consultant": "Dr. Joshi",
@@ -29,7 +29,7 @@
             
         },
         {
-            "type": "prescription",
+            "type": "Prescription",
             "patientId": "ChildThree",
             "name": "Ashley Williams",
             "prescription": "Adderall",
