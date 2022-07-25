@@ -36,20 +36,11 @@
             "reportdate": "Jan 15, 2022",
             "time": "2:00 PM",
             "readings": [
-                {
-                    "reportname": "HDL Cholesterol",
-                    "status": "In Range",
-                    "reading": "54.5"
-                },
+                
                 {
                     "reportname": "HDL Cholesterol",
                     "status": "Out of Range",
                     "reading": "75"
-                },
-                {
-                    "reportname": "HDL Cholesterol",
-                    "status": "In Range",
-                    "reading": "54.5"
                 }
                 
             ]
