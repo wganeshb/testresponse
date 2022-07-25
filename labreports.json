@@ -33,7 +33,7 @@
         {
             "doctor": "Dilip Karnik",
             "reporttype": "Metabolic Panel",
-            "reportdate": "Feb 12, 2022",
+            "reportdate": "Jan 15, 2022",
             "time": "2:00 PM",
             "readings": [
                 {
@@ -44,7 +44,7 @@
                 {
                     "reportname": "HDL Cholesterol",
                     "status": "Out of Range",
-                    "reading": "70"
+                    "reading": "75"
                 },
                 {
                     "reportname": "HDL Cholesterol",
