@@ -29,6 +29,30 @@
                 }
                 
             ]
+        },
+        {
+            "doctor": "Dilip Karnik",
+            "reporttype": "Metabolic Panel",
+            "reportdate": "Feb 12, 2022",
+            "time": "2:00 PM",
+            "readings": [
+                {
+                    "reportname": "HDL Cholesterol",
+                    "status": "In Range",
+                    "reading": "54.5"
+                },
+                {
+                    "reportname": "HDL Cholesterol",
+                    "status": "Out of Range",
+                    "reading": "70"
+                },
+                {
+                    "reportname": "HDL Cholesterol",
+                    "status": "In Range",
+                    "reading": "54.5"
+                }
+                
+            ]
         }
     ]
 }
